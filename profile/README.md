@@ -1,5 +1,5 @@
 #   Bem-vindo à Greetime 🚀
-### Somos uma empresa visionária com um objetivo ambicioso: mudar o mundo para um lugar livre de censura injusta. Oferecemos uma ampla gama de produtos e serviços, incluindo:
+### Somos uma empresa visionária com um objetivo ambicioso: mudar o mundo para um lugar livre de censura. Oferecemos uma ampla gama de produtos e serviços, incluindo:
 
 * ####  Streaming de vídeos e música 🎬🎶
 * ####  Ensino à distância 💻📚
