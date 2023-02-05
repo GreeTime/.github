@@ -1,10 +1,10 @@
 #   Bem-vindo à Greetime 🚀
 ### Somos uma empresa visionária com um objetivo ambicioso: mudar o mundo para um lugar livre de censura injusta. Oferecemos uma ampla gama de produtos e serviços, incluindo:
 
-#### * Streaming de vídeos e música 🎬🎶
-#### * Ensino à distância 💻📚
-#### * Publicação de conteúdo midiático 📰🎥
-#### * E muito mais! 🚀
+* ####  Streaming de vídeos e música 🎬🎶
+* ####  Ensino à distância 💻📚
+* ####  Publicação de conteúdo midiático 📰🎥
+* ####  E muito mais! 🚀
  
 ### Graças ao nosso revolucionário protocolo P2xP, estamos presentes em todo o mundo 🌍 E nossos fundadores, Malbem e Felipepx, são apaixonados por tecnologia e acreditam 
 ### firmemente na liberdade de expressão e no acesso à informação 💪
